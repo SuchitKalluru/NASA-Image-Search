@@ -4,9 +4,11 @@ A search base that allows the user to search for keywords and returns images, fr
 Uses Nasa's API to source images. 
 
 --------------Function Access---------------
+
 _app.js -> index.js -> [id].js -> ImagePreview.js
 
 ----------Description of Functions-----------
+
 _app.js - The start of the application 
 
 index.js - The home screen where the user is able to search for images 
